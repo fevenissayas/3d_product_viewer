@@ -1,10 +1,10 @@
-# 🪑 Interactive 3D Product Viewer
+# Interactive 3D Product Viewer
 
 An interactive 3D viewer built with [Three.js](https://threejs.org/) that displays a product (a wooden chair) with smooth floating animation, camera auto-rotation, part highlighting on click, and dynamic info display.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Realistic 3D chair made of geometric primitives
 - Smooth floating animation and auto-rotating camera
@@ -14,7 +14,7 @@ An interactive 3D viewer built with [Three.js](https://threejs.org/) that displa
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```plaintext
 project/
@@ -36,7 +36,7 @@ project/
 
 ---
 
-## 🛠️ Setup
+## Setup
 
 ### 1. Clone the Repository
 
@@ -70,7 +70,7 @@ Alternatively, use the VSCode extension **Live Server** to serve the `public/` f
 
 ---
 
-## ✨ How to Use
+## How to Use
 
 * Click on chair parts (seat, backrest, legs) to:
   * Show part name
@@ -83,7 +83,7 @@ Alternatively, use the VSCode extension **Live Server** to serve the `public/` f
 
 ---
 
-## 🧠 Built With
+## Built With
 
 * [Three.js](https://threejs.org/) – WebGL library
 * [JavaScript ES Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
@@ -91,7 +91,7 @@ Alternatively, use the VSCode extension **Live Server** to serve the `public/` f
 
 ---
 
-## 📄 License
+## License
 
 MIT License. Feel free to use and adapt.
 
